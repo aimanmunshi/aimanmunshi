@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aiman Munshi</h1>
-<h3 align="center">🔭 I’m currently working on C++ . 
-  👯 I’m looking to collaborate on open source contribution. 
-  🌱 I’m currently learning DSA.</h3>
+<h3 align="center">I am a passionate small scale developer , trying to learn new things.</h3>
 
 - 🔭 I’m currently working on my Java Project [SuperMarket Management System](https://github.com/aimanmunshi/SuperMarket-_Management_System)
 
 - 🌱 I’m currently learning DSA **Queues, Tress etc**
+
+- 👯 I’m looking to collaborate on Python Projects **Heart Disease Prediction Tool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
