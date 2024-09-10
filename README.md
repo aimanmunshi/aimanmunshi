@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning DSA **Queues, Tress etc**
 
-- 👯 I’m looking to collaborate on Python Projects **Heart Disease Prediction Tool**
+- 👯 I’m looking to collaborate on Python Projects [Heart Disease Prediction Tool](https://github.com/aimanmunshi/Heart-Disease-Prediction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
