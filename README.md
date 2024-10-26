@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aiman Munshi</h1>
 <h3 align="center">I am a passionate small scale developer , trying to learn new things.</h3>
 
-- 🔭 I’m currently working on my Java Project [SuperMarket Management System](https://github.com/aimanmunshi/SuperMarket-_Management_System)
+- 💡 My portfolio [website link](https://aimanmunshi.github.io/Portfolio/)
+- 🔭 I’ve completed my Java Project [SuperMarket Management System](https://github.com/aimanmunshi/SuperMarket-_Management_System)
 - 👯 I’m looking to collaborate on Python Projects [Heart Disease Prediction Tool](https://github.com/aimanmunshi/Heart-Disease-Prediction)
 - 🌱 I’m currently learning DSA **Tress etc**
-- 💡 My portfolio [website link](https://aimanmunshi.github.io/Portfolio/)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
