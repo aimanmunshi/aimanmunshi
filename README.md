@@ -4,7 +4,7 @@
 - 💡 My portfolio [website link](https://aimanmunshi.github.io/Portfolio/)
 - 🔭 I’ve completed my Java Project [SuperMarket Management System](https://github.com/aimanmunshi/SuperMarket-_Management_System)
 - 👯 I’m looking to collaborate on Python Projects [Heart Disease Prediction Tool](https://github.com/aimanmunshi/Heart-Disease-Prediction)
-- 🌱 I’m currently learning DSA **Tress etc**
+- 🌱 I’m currently learning DSA **Graphs etc**
 
    [![](https://visitcount.itsvg.in/api?id=aimanmunshi&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 <p align="left">
