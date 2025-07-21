@@ -25,5 +25,5 @@ I'm a passionate full-stack developer currently working on real-world projects u
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/aiman-munshi-6ab0b5331/)
+- Email: munshiaiman2005@gmail.com
