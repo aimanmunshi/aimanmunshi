@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm Aiman Munshi</h1>
-<h3 align="center">I am a passionate small scale developer , trying to learn new things.</h3>
 
-- 💡 My portfolio [website link](https://aimanmunshi.github.io/Portfolio/)
-- 🔭 I’ve completed my Java Project [SuperMarket Management System](https://github.com/aimanmunshi/SuperMarket-_Management_System)
-- 👯 I’m looking to collaborate on Python Projects [Heart Disease Prediction Tool](https://github.com/aimanmunshi/Heart-Disease-Prediction)
-- 🌱 I’m currently learning DSA **Graphs etc**
+# Hi, I'm Aiman 👋
 
-   [![](https://visitcount.itsvg.in/api?id=aimanmunshi&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
-<p align="left">
-</p>
+I'm a passionate full-stack developer currently working on real-world projects using **React**, **Node.js**, and **PostgreSQL**. I love building scalable web apps, learning new technologies, and creating efficient backend systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🔧 Tech Stack
+- **Frontend**: React, Tailwind CSS, HTML5, CSS3
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL, MySQL
+- **Tools & Platforms**: Git, GitHub, VS Code, Firebase, Postman
+- **Languages**: JavaScript, Java, Python
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 [**Dashboard Project**](https://github.com/aimanmunshi/dashboard-project): A full-stack analytics dashboard with login, charts, and role-based access
+- 🔹 [**Dashboard Backend**](https://github.com/aimanmunshi/dashboard-backend): REST API with JWT authentication and PostgreSQL integration
+- 🔹 [**Heart Disease Prediction**](https://github.com/aimanmunshi/Heart-Disease-Prediction): Machine learning model to predict heart disease from patient data
+- 🔹 [**SuperMarket Management System**](https://github.com/aimanmunshi/SuperMarket-_Management_System): Desktop Java application to manage inventory and billing
+- 🔹 [**Portfolio Website**](https://github.com/aimanmunshi/Portfolio): My personal website showcasing projects and skills
+
+---
+
+### 📈 GitHub Stats
+
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimanmunshi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanmunshi&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: your.email@example.com
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
