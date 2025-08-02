@@ -16,10 +16,16 @@ I'm a passionate full-stack developer currently working on real-world projects u
 
 ### 📌 Featured Projects
 
-- 🔹 [**Dashboard Project**](https://github.com/aimanmunshi/dashboard-project): A full-stack analytics dashboard with login, charts, and role-based access
-- 🔹 [**Heart Disease Prediction**](https://github.com/aimanmunshi/Heart-Disease-Prediction): Machine learning model to predict heart disease from patient data
-- 🔹 [**SuperMarket Management System**](https://github.com/aimanmunshi/SuperMarket-_Management_System): Desktop Java application to manage inventory and billing
-- 🔹 [**Portfolio Website**](https://github.com/aimanmunshi/Portfolio): My personal website showcasing projects and skills
+- 🔹 [**Next Dashboard**](https://github.com/aimanmunshi/next-dashboard): A responsive task management dashboard built with **Next.js 14**, **Firebase**, and **TailwindCSS**, featuring authentication, Firestore integration, dynamic task status control, and smooth            animations.
+
+- 🔹 [**Dashboard Project**](https://github.com/aimanmunshi/dashboard-project): A full-stack analytics dashboard with login, charts, and role-based access.
+
+- 🔹 [**Heart Disease Prediction**](https://github.com/aimanmunshi/Heart-Disease-Prediction): Machine learning model to predict heart disease from patient data.
+
+- 🔹 [**SuperMarket Management System**](https://github.com/aimanmunshi/SuperMarket-_Management_System): Desktop Java application to manage inventory and billing.
+
+- 🔹 [**Portfolio Website**](https://github.com/aimanmunshi/Portfolio): My personal website showcasing projects and skills.
+
 
 ---
 
