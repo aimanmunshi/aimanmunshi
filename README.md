@@ -9,7 +9,7 @@ I'm a passionate full-stack developer currently working on real-world projects u
 - **Frontend**: React, Tailwind CSS, HTML5, CSS3
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Firebase, Postman
+- **Tools & Platforms**: Git, GitHub, VS Code, Firebase, Vercel, Render, Supabase
 - **Languages**: JavaScript, Java, Python
 
 ---
